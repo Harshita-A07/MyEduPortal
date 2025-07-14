@@ -1,4 +1,4 @@
-# 🎓 Campus Directory
+# 🎓 CMyEduPortal
 
 **Campus Directory**   
 
