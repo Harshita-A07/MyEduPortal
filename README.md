@@ -1,8 +1,10 @@
-# 🎓 CMyEduPortal
+# 🎓 MyEduPortal
 
 **Campus Directory**   
 
-By using a secure, validated form in place of manual Excel handling, this system simplifies the management of student information. Administrators can generate PDFs, manage data, and ensure timely, accurate, and secure access — greatly reducing staff workload. Students can effortlessly update their records through an intuitive interface.
+By using a secure, validated form in place of manual Excel handling, this system simplifies the management of student information. 
+Administrators can generate PDFs, manage data, and ensure timely, accurate, and secure access — greatly reducing staff workload.
+Students can effortlessly update their records through an intuitive interface.
 
 ---
 
